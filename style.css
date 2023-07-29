@@ -1,0 +1,51 @@
+html{
+    font-family: monospace, Arial, sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+tbody {
+    background-color: #242f44;
+    color: white;
+    text-align: left;
+    width: 0 auto;
+}
+h1 {
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+}
+h2 {
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+table {
+    border: 2px solid blue;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: auto;
+    text-align: center;
+}
+
+.code {
+    background-color: antiquewhite;
+    color:green;
+    font-style: italic;
+}
+thead {
+    background-color: grey;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid blue;
+}
+tr, th, td {
+    border: 2px solid blue;
+    padding: 8px;
+    width: 100;
+}
+td {
+    text-align: left;
+}
+th {
+    text-align: center;
+}
